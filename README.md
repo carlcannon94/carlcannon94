@@ -14,12 +14,10 @@
   - [Active Directory: Practical Scenarios](https://github.com/carlcannon94/ad-practical-scenarios)
   - 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/carlcannon94/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carlcannon94/azure-network-protocols)
+  -  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carlcannon94/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Carl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Carl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Carl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
