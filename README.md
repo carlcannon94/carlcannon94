@@ -6,6 +6,13 @@
   - [osTicket: Prerequisites and Installation](https://github.com/carlcannon94/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/carlcannon94/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/carlcannon94/ticket-lifecycle)
+  - 
+  - >Active Directory</b>
+  - [Active Directory: Setup with Azure Virtual Machines](https://github.com/carlcannon94/active-directory-setup)
+  - [Active Directory: Deployment and Configuration](https://github.com/carlcannon94/ad-deploy-and-config)
+  - [Active Directory: Generating Users](https://github.com/carlcannon94/ad-user-generation)
+  - [Active Directory: Practical Scenarios](https://github.com/carlcannon94/ad-practical-scenarios)
+  - 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/carlcannon94/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/carlcannon94/azure-network-protocols)
